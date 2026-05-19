@@ -1,0 +1,7 @@
+# Ignorar todo por defecto para este proyecto
+*
+
+# Permitir explícitamente el Notebook principal y el README
+!README.md
+!Project2_NPL_FT.ipynb
+!.gitignore
